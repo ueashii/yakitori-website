@@ -527,7 +527,7 @@ body {
 
 /* фотки хитов */
 .card:nth-child(1) .image-placeholder { background: url('../images/fil.jpg') center/cover; }../
-.card:nth-child(2) .image-placeholder { background: url('../images/california.jpg') center/cover; }
+.card:nth-child(2) .image-placeholder { background: url('images/california.jpg') center/cover; }
 .card:nth-child(3) .image-placeholder { background: url('../images/dragon.jpg') center/cover; }
 .card:nth-child(4) .image-placeholder { background: url('../images/unagi-maki.jpg') center/cover; }
 .card:nth-child(5) .image-placeholder { background: url('../images/samuraiset.jpg') center/cover; }
